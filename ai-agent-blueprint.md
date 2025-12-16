@@ -1,8 +1,6 @@
 # AI Agent Blueprint: From Reflection to Action
+https://medium.com/@bijit211987/ai-agent-blueprint-from-reflection-to-action-06ad05410253
 
-**By Bijit Ghosh** | 8 min read | Jan 2, 2025
-
-Redefining autonomy with precision and purpose.
 
 ---
 
